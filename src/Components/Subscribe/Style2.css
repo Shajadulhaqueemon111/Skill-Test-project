@@ -1,0 +1,35 @@
+.image {
+    margin-top: -107px;
+    Left: 928px;
+    
+}
+
+.box-style {
+  
+    width: auto;
+    height: 300px;
+    margin-top: 119px;
+    left: 80px;
+    gap: 0px;
+   
+    opacity: 0px;
+    background-color: 
+    #F2E7DB;
+
+}
+
+.circle{
+ 
+margin-left: -150px;
+
+}
+
+
+@media only screen and (max-width: 992px) {
+  .image{
+    display: none;
+  }
+  .box-style{
+    flex-direction: column;
+  }
+}

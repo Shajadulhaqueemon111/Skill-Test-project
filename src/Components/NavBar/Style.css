@@ -1,0 +1,37 @@
+.card-style{
+width: 230px;
+height: 100px;
+top: 375px;
+left: 808px;
+padding: 4px;
+background-color: rgba(255, 255, 255, 0.75);
+gap: 0px;
+position: absolute;
+margin-top: -120px;
+margin-left: -100px;
+border-radius: 12px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.btn-style{
+    border-radius: 2px;
+}
+
+
+
+@media only screen and (min-width: 320px) {
+    .card-style-5 {
+        display: block; /* Show on screens 320px or smaller */
+    }
+}
+
+@media only screen and (max-width: 992px) {
+   
+    .card-style-4{
+        display: none;
+    }
+}
+
+
+

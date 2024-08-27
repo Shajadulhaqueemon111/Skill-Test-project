@@ -35,12 +35,10 @@
         
 //     }
 //     return (
-//         <div >
+//         <div  className="bg-[#245D51]">
 //             <div style={boxStyle4}>
 
-//                 <nav style={{
-//             backgroundImage: "url(https://i.ibb.co/THCMt5k/Rectangle-1.png)",
-//           }} className="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
+//                 <nav  className="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
 //                     <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
 //                         <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
 
@@ -66,7 +64,7 @@
 //                                 <CgMenuGridR className="text-xl"></CgMenuGridR>
 //                             </button>
 //                         </div>
-//                         <div className="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
+//                         {/* <div className="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
 //                             <ul className="flex flex-col p-4 md:p-0 mt-4 font-medium border rounded-lg md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0  dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
 //                                 <li>
 //                                     <a href="/" className="block py-2 px-3  bg-blue-700 rounded md:bg-transparent dark:hover:text-white md:p-0 " aria-current="page">Home</a>
@@ -87,7 +85,7 @@
 //                             </ul>
 
 
-//                         </div>
+//                         </div> */}
 //                     </div>
 
        
@@ -126,7 +124,7 @@
 
 //                        <div  className="">
 //                        <div>
-//                        <img style={imageStyle4} className="hidden md:block relative" src="https://i.ibb.co/nR7P1Qk/pexels-max-fischer-5212317-removebg-preview-1.png" alt="" />
+//                        <img style={imageStyle4} className="hidden md:block " src="https://i.ibb.co/nR7P1Qk/pexels-max-fischer-5212317-removebg-preview-1.png" alt="" />
 //                        </div>
 //                         <div className="card-style">
 //                           <div className="flex">

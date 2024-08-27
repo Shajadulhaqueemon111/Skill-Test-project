@@ -1,0 +1,21 @@
+[
+    {
+        "courseName": "Basics of learning team management",
+        "image": "https://i.ibb.co/pKZGXjq/unsplash-m2-TU2gfq-Se-E.png",
+        "teacher":"https://i.ibb.co/yP2xRzv/Group-589.png",
+        "price":"$120/25"
+       
+    },
+    {
+        "courseName": "Basics of learning team management",
+        "image": "https://i.ibb.co/pKZGXjq/unsplash-m2-TU2gfq-Se-E.png",
+        "teacher":"https://i.ibb.co/QK0c0m0/Group-589-1.png",
+        "price":"$120/25"
+    },
+    {
+        "courseName": "Create dynamic website with basic php",
+        "image": "https://i.ibb.co/QPtPVk0/unsplash-m2-TU2gfq-Se-E-1.png",
+        "teacher":"https://i.ibb.co/vBTTqVT/Group-589-3.png",
+        "price":"$120/25"
+    }
+]

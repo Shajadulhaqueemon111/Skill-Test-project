@@ -1,0 +1,43 @@
+.card-style{
+  margin-top: 32px;
+  position: relative;
+}
+
+.image-style{
+  width: 60px;
+height: 60px;
+gap: 0px;
+opacity: 0px;
+margin-top: -150px;
+margin-left: 120px;
+
+}
+
+.arrow-image{
+  width: 53px;
+height: 53.28px;
+
+margin-top: -80px;
+margin-left: 320px;
+gap: 0px;
+opacity: 0px;
+
+}
+.arrow-image-2{
+  width: 53px;
+height: 53.28px;
+
+margin-top: -80px;
+margin-left: -60px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
+@media only screen and (max-width: 992px) {
+   
+  .card-style{
+      flex-direction: column;
+  }
+}

@@ -1,0 +1,47 @@
+.rating-card {
+   width: 400px;
+    height: 300px;
+    top: 5228px;
+    left: 514px;
+    padding: 20px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.card-size{
+    width: 318px;
+height: 151px;
+top: 178.25px;
+left: 47px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.arrow-style{
+margin-left: 100px;
+}
+
+@media only screen and (max-width: 324px) {
+    .bg-image-1{
+        display: block;
+       }
+   .rating-image-2{
+    display: block;
+   }
+ }
+
+@media only screen and (max-width: 992px) {
+    
+    .card-responsive{
+        flex-direction: column;
+    }
+}
+@media only screen and (max-width: 1440px) {
+    .bg-image-2{
+        display: block;
+       }
+    
+}
+

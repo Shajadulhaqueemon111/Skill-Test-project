@@ -37,7 +37,7 @@ const PopularCourse = () => {
 
       <div className='card-style'>
         
-        <div className="card bg-base-100 w-96 justify-center align-middle shadow-xl">
+        <div className="card bg-base-100 w-96 shadow-xl">
        
           <figure>
         

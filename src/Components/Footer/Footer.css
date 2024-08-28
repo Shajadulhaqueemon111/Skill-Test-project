@@ -1,0 +1,16 @@
+@media only screen and (max-width: 992px) {
+
+    .card-responsive {
+        flex-direction: column-reverse;
+    }
+}
+
+.footer-image {
+    width: 45.92px;
+    height: 54.03px;
+    margin-top: 50px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}

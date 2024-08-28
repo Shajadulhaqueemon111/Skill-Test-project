@@ -1,0 +1,52 @@
+.plane-card {
+    width: 292px;
+    margin-top: 50px;
+    top: 4398.95px;
+    left: 577px;
+    gap: 0px;
+    padding: 6px;
+    opacity: 0px;
+    
+
+}
+.plane-card-1 {
+    width: 292px;
+    border-radius: 10px;
+    height: 420px;
+    top: 4398.95px;
+    left: 577px;
+    gap: 0px;
+    padding: 6px;
+    opacity: 0px;
+    background-color: rgba(36, 93, 81, 1);
+
+}
+
+.btn-style-4{
+    width: 207px;
+height: 45px;
+top: 4846.95px;
+margin-left: 32px;
+gap: 0px;
+opacity: 0px;
+border-radius: 10px;
+}
+
+.btn-style-2{
+ width: 121px;
+height: 27px;
+top: 4418.95px;
+left: 728px;
+border-radius: 10px;
+gap: 0px;
+opacity: 0px;
+margin-left: 100px;
+
+}
+
+@media only screen and (max-width: 992px) {
+   
+    .card-responsive{
+        flex-direction: column;
+    }
+}

@@ -1,15 +1,20 @@
 .image {
+  height: 300px;
     margin-top: -107px;
     Left: 928px;
     
 }
 
+.circle-6{
+  margin-left: 40px;
+}
+
 .box-style {
-  
-    width: auto;
-    height: 300px;
-    margin-top: 119px;
-    left: 80px;
+  height: fit-content;
+ 
+  width: max-content;
+  border-radius: 15px 0px 0px 0px;
+ 
     gap: 0px;
    
     opacity: 0px;

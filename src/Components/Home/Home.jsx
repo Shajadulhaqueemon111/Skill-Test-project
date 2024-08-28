@@ -8,12 +8,12 @@ import Quality from "../Quality/Quality";
 import Rating from "../Rating/Rating";
 import SkillShoot from "../SkillShoot/SkillShoot";
 import Subscribe from "../Subscribe/Subscribe";
-// import NavBar from "../NavBar/NavBar";
+import NavBar from "../NavBar/NavBar";
 
 const Home = () => {
     return (
         <div>
-          {/* <NavBar></NavBar> */}
+          <NavBar></NavBar>
           <Banner></Banner>
           <Subscribe></Subscribe>
           <Quality></Quality>

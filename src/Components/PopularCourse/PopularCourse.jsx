@@ -3,7 +3,7 @@ const PopularCourse = () => {
 
 
   return (
-    <div className="mt-32 bg-[#245D51]">
+    <div className="mt-12 bg-[#245D51] p-4">
       <div >
         <div className="flex  justify-around">
           <img

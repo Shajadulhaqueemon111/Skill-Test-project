@@ -27,7 +27,7 @@ const Subscribe = () => {
           <img className='w-8 hidden  sm:block  h-8' src="https://i.ibb.co/ZXVWVqv/Group-574.png" alt="" />
           <img className='w-8  h-8 mt-52' src="https://i.ibb.co/KmnYgPq/Group-577.png" alt="" />
           </div>
-            <img  className='image w-8 h-8 hidden sm:block md:block lg:block' style={imageStyle}  src="https://i.ibb.co/0ByB1Dw/pexels-katerina-holmes-5905497-removebg-preview-1.png" alt="" />
+            <img  className='image  hidden sm:block md:block lg:block' style={imageStyle}  src="https://i.ibb.co/0ByB1Dw/pexels-katerina-holmes-5905497-removebg-preview-1.png" alt="" />
             <div >
             <img className='w-8 h-8 hidden  sm:block ' src="https://i.ibb.co/4g49f4R/ornamen-2.png" alt="" />
             <img className='mt-20 hidden  sm:block ' src="https://i.ibb.co/Kj1nqgZ/Group-576.png" alt="" />

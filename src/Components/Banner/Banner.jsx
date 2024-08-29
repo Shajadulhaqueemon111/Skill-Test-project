@@ -14,7 +14,7 @@ const Banner = () => {
 
            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 text-center justify-center items-center gap-2 ml-32 mt-6">
             <img style={imageStyle}  src=" https://i.ibb.co/mv7FchJ/image-11.png" alt="" />
-            <img style={imageStyle} src="https://i.ibb.co/4138QzY/image-12.png" alt="" />
+            <img style={imageStyle} src="https://i.ibb.co/XVcW3yj/image-12-2.png" alt="" />
             <img style={imageStyle} src="https://i.ibb.co/f01sXZp/image-13.png" alt="" />
             <img style={imageStyle} src="https://i.ibb.co/k3Ggd1M/image-14.png" alt="" />
             <img style={imageStyle} src="https://i.ibb.co/Y31nP0P/image-15.png" alt="" />
